@@ -2,5 +2,5 @@
 GUI based editor
 
 # Dependencies
-- Requires PyQt5
+- Requires Tkinter (```pip3 install tkinter```)
 - Python 3.*
